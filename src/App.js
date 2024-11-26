@@ -16,7 +16,7 @@ function App() {
             alt="Kodeikon"
             id="coding-icon"
           />
-        </div>
+        </div> 
 
 
         <img 
