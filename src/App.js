@@ -20,7 +20,7 @@ function App() {
 
 
         <img 
-          src="/public/images/profilbillede.jpg" 
+          src="./images/profilbillede.jpg" 
           alt="Mit Billede" 
           id="header-image" 
           onClick={() => window.location.hash = '#kontakt'}  // Naviger til #om-mig sektionen ved klik
